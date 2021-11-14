@@ -1,4 +1,0 @@
-Flutter SDK indir
-flutter doctor çalıştır
-install flutter plugin
-
